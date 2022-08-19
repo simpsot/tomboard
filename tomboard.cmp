@@ -1,0 +1,331 @@
+Cmp-Mod V01 Created by PcbNew   date = Thursday, 18 August 2022 at 20:24:42
+
+BeginCmp
+TimeStamp = 4c4a3935-cf82-46cb-abc8-b6a8f4bd5055
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 091b8e52-0b69-4882-be03-4f89f217a3e7
+Path = /df893fb0-092f-44a4-99c4-fa5d4980ba4d
+Reference = U2;
+ValeurCmp = USBLC6-2SC6;
+IdModule  = Package_TO_SOT_SMD:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 17564f41-d89a-4382-8899-f85f0649447d
+Path = /e1713818-ed0d-462e-9b0f-8bbdf6ffb945
+Reference = U1;
+ValeurCmp = USBLC6-2SC6;
+IdModule  = Package_TO_SOT_SMD:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 643d859f-3c06-45d3-bb1a-da43c01a77d7
+Path = /94328e87-ddcd-4c0f-849c-160dbdae4889
+Reference = J1;
+ValeurCmp = USB_C_Receptacle_USB2.0;
+IdModule  = nrfmicro:USB-C_C168688;
+EndCmp
+
+BeginCmp
+TimeStamp = c4a96b3c-17d8-4f26-8d01-0b6d3922782f
+Path = /5697d365-bf76-4f72-ae16-4c758f0505c8
+Reference = J0;
+ValeurCmp = USB_C_Receptacle_USB2.0;
+IdModule  = nrfmicro:USB-C_C168688;
+EndCmp
+
+BeginCmp
+TimeStamp = 0d19549d-1f81-4256-b4f9-560de59006ba
+Path = /20bb571e-43bf-4c38-b667-c78e7d7d0437
+Reference = S18;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 0fd56cd7-e905-43a5-b817-7d1cc54cbad5
+Path = /c8d9e8be-feb1-4cea-8796-731461f85a50
+Reference = S36;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 28a90858-d466-4ca2-a077-fed76c08f093
+Path = /d479997b-1d7b-4732-bc70-8ddec90ef463
+Reference = MCU1;
+ValeurCmp = KB2040;
+IdModule  = kb2040:kb2040;
+EndCmp
+
+BeginCmp
+TimeStamp = 390fe101-ed26-4e6c-a56f-71baae4c09a4
+Path = /167f2512-1d9d-47aa-8628-b0e4d30c87d7
+Reference = S8;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a4f76c8-a0a4-4de6-a94e-4d5f6570ec39
+Path = /3adfaf53-db49-4e90-b4f0-8871e6675b67
+Reference = S5;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 6144a33f-ecab-40ad-826f-7b15e82b1d53
+Path = /bb5bcbd2-bae3-4c86-87eb-62745b11b2a0
+Reference = S12;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 63c4016b-ac2e-4c6b-8976-5994e5fb1be2
+Path = /5e0f9b2a-194b-4ad6-bd6b-4e88e777afd8
+Reference = S11;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 64583f11-24f1-4f0f-a754-7340bf6743fa
+Path = /a46d9582-ee75-49f3-84c3-fca6ef658bba
+Reference = S2;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 684edc78-a921-4ab1-a54e-09c1bd099918
+Path = /324065ab-d7ea-4576-9bbc-f2a465f4c21b
+Reference = S6;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 74d2b769-fce6-4074-8f53-28f35e2168b9
+Path = /ea9eb667-dce3-44e3-8918-3b3183194c5a
+Reference = S32;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 78d57b14-1098-4898-8f21-1fb85ac06aa8
+Path = /7077bc48-1a5d-417a-8294-1e87e2fe81c4
+Reference = S26;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 7a160ae6-4388-40cb-b81e-685e5f56590f
+Path = /10deb5ce-e544-4f8b-9ec5-0390e5ab431a
+Reference = S10;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 856042b9-93e7-4007-afc2-e8b4d9a2b9d9
+Path = /9d6903b8-a569-46d4-a128-23bd4a21f356
+Reference = S33;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 8a24431e-436f-4d39-b3d0-070eb4aef12e
+Path = /95aa259d-71ff-4958-9d22-34f58c9552e1
+Reference = S15;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 909bc720-2bda-48a2-85ea-6c5c9ec35396
+Path = /19570a8a-0556-4a24-ad80-9f2c8117798e
+Reference = S3;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 90a0010a-084b-4225-b214-f3a56200a047
+Path = /2871aec9-bdb3-41dc-b877-c95401557a9c
+Reference = S19;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 91529978-7523-4e87-9b3f-1681dc432b63
+Path = /bec85c1b-513e-410a-a6b8-c005ab7dd4eb
+Reference = S35;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 93d645d7-1815-47bf-8763-2e03e4669a65
+Path = /45af9f2a-2de2-411b-94dd-4f97e99a2188
+Reference = S29;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = 97f180d6-3a74-40ab-a9ed-61f01a2f9860
+Path = /d7c3a988-fe4f-4301-bf20-9e94b92fce03
+Reference = S20;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = a36c6d7d-7f67-4515-aa67-f8e48b31011a
+Path = /ee764e6f-0a37-4794-8fa4-3c91ad320518
+Reference = S7;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = a484b530-03b1-43b1-b61b-4fc18a9fdf3b
+Path = /385a97e7-4ad7-4587-82b0-e1dc2b085520
+Reference = S1;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = abbe25b9-6033-4198-b261-deff23085de8
+Path = /329496a6-0267-4ed8-bf40-14d649b5f519
+Reference = S21;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = b9bc1813-dafa-43ea-899f-62f38794b647
+Path = /6f08e5bf-f970-4898-9b1e-1e6152a1095a
+Reference = S31;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = bb3d1cb0-8a68-4a46-a55b-954e56e77f47
+Path = /908868b9-946d-4020-9142-77451c438896
+Reference = S24;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = c2cdf717-322f-4ccd-9277-e17ca110d09a
+Path = /3c8a61c2-e916-4741-aebe-1caa9f68b9c0
+Reference = S9;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = c4720cdb-fbab-400a-aeb9-2151c75bd9cb
+Path = /5e0a99c3-4c8b-4021-8446-eaec7adda11b
+Reference = S17;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = d0414a0e-a944-49f8-9dfd-c8b1871e9be6
+Path = /96acd5ae-0c46-49ce-ae28-0727d7060eac
+Reference = MCU2;
+ValeurCmp = KB2040;
+IdModule  = kb2040:kb2040;
+EndCmp
+
+BeginCmp
+TimeStamp = d0534587-d138-4451-8261-3b8bfe5f7d3b
+Path = /d563dfa1-f391-4847-bfd5-0ebc72891f3e
+Reference = S30;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = d0c8d779-72a3-4c97-9721-270b50478ac0
+Path = /c2279d14-6bee-4672-b108-95de8c473fe6
+Reference = S22;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = d1a0ecda-3694-4d6e-b7a1-d7623615761c
+Path = /1b2f2687-6b8b-4cc0-a2b9-7b3f561e5598
+Reference = S4;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = d2010980-1eda-4c51-8b45-4d1ea6ab9966
+Path = /9e80e5e1-295c-48d0-92af-8ee1f2c658b8
+Reference = S23;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = e1d96f49-d4d4-40e9-816a-a94996653371
+Path = /ade6b56d-73cf-4f7a-8f50-00356cf95f44
+Reference = S14;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = e56fa4ad-9f4d-4864-9af8-f92be522f713
+Path = /c4852db4-2860-4fbe-8c11-e8b8749834b6
+Reference = S13;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = f2a2c42f-0d09-4837-9016-37e74e7d9f51
+Path = /83b6efff-c347-4f82-8728-910a182e3e4e
+Reference = S27;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = f4900ea8-8aaa-48b6-ab7e-897129f1d045
+Path = /8ce021ed-163a-4154-b3ca-e3b95222bad4
+Reference = S25;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+BeginCmp
+TimeStamp = f56b57a2-7c06-4a3a-a2f2-ecb80d6557fd
+Path = /9ecd45b5-3e79-406f-957a-8d7d4d2fcb6c
+Reference = S28;
+ValeurCmp = MX_SK6182;
+IdModule  = CherryMX:MX_1.00u_PCB_KailhSocket_mini-led;
+EndCmp
+
+EndListe
